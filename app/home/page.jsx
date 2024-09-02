@@ -6,7 +6,7 @@ const Home = () => {
   // return <div className={` container mx-auto ${style.con}`}>Home page...</div>;
   return (
     <div className="container p-7">
-      <Typography variant="h4">Home page...</Typography>
+      <Typography variant="h4">Home Detail Page...</Typography>
 
       <hr />
       <br />
