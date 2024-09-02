@@ -29,8 +29,8 @@ const NavPage = ({ toggleval, settoggleval }) => {
           <MenuIcon />
         </IconButton>
         <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
-          {/* EMPLOYEE */}
-          Unik Work
+          EMPLOYEE
+          {/* Unik Work */}
         </Typography>
         <IconButton
           size="large"
